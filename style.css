@@ -1,0 +1,117 @@
+#name{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-left: 200px;
+    padding-left: 20px;
+    border-color: #4aaaa5;
+    border-style: solid;
+    height: 55px;
+    width: 335px;
+    margin-left: 30px;
+    margin-bottom: -5px;
+    position: relative;
+    left: 60%;
+    background-color: #4aaaa5;
+}
+#navbarNav{
+    padding-left: 40%;
+    font-size: 20px;
+
+}
+nav{
+    margin-bottom:20px; 
+}
+h1{
+    color:azure;
+    font-size: 35px;
+
+}
+h2 {
+    background-color:#ffffff;
+    margin-bottom: 30px;
+    border-block-end-width: 30px;
+    color: #4aaaa5;
+    height: 30px;
+    text-align: left;
+}
+.container {
+    margin-right: 20%;
+    margin-left: 20%;
+    background-image: url(assets/images/234.jpg);
+    color: #777777;
+}
+    #box-a{
+        
+        color: #777777;
+        padding: 30px 1px 50px 80px;
+        margin-top: 10px 20px 10px 60px;
+        background-color:#ffffff;
+        height: 450px;
+        border: #dddddd;
+        width: 70%;
+        height: 400px;
+
+    }
+    
+
+#image1 {
+    width:100%;
+    height:90%;
+    padding: 5px;
+    float: left;
+}
+#image{
+    width: 200px;
+    height: 180px;
+    padding: 10px;
+    padding-right:20px;
+    float: left;
+}
+.btn{
+    background-color: #4aaaa5;
+    color: azure;
+    border: #dddddd;
+}
+#box-p{
+    padding: 20px 50px 20px 50px;
+    margin-top: 10px 20px 10px 20px;
+    background-color:#ffffff;
+    height:500px;
+    border: #dddddd;
+    width:60%;
+    height: 650px;
+}
+.nature
+ {  margin-top: 120px;
+    margin-right: 50px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    padding: 9px;
+    width: 170px;
+    height: 40px;
+    color: #777777;
+    background-color: #4aaaa5;
+    position: absolute;
+    text-align: center;
+    
+ }
+#box-c{
+        padding: 20px 50px 20px 50px;
+        margin-top: 10px 20px 10px 20px;
+        background-color:#ffffff;
+        height:500px;
+        border: #dddddd;
+        width:60%;
+        height: 610px;
+    }
+.tarea{
+    height: 200px;
+    width: 100%
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #666666;
+    padding: 20px;
+    border-top: 5px solid #4aaaa5;
+    text-align: center;
+}
